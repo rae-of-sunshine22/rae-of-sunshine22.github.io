@@ -21,6 +21,6 @@ format:
     theme: 
       light: lux
       dark: darkly
-    css: styles.css
+    # css: styles.css
     toc: true
     page-layout: full
