@@ -1,0 +1,40 @@
+---
+title: "Research Experience and Skills"
+format: html
+---
+
+# Key Skills
+
+-   Qualitative data cleaning and analysis
+
+    -   Interview transcription and cleaning using Rev, OtterAI, and DeDoose
+
+    -   Codebook development for qualitative research
+
+-   Field work involving the care and CWD testing of mule deer (Odocoileus hemionus)
+
+# Experience
+
+**Research Associate, Colorado State University Forest and Rangeland Stewardship**
+
+June 2025 - May 2026
+
+Fort Collins, CO
+
+-   Collaboratively develop codebooks and guides for policy research projects within Colorado State University's School of Global Environmental Sustainability, often regarding fire and forest ecology
+
+-   Streamline administrative tasks, including running meetings and facilitating email communication
+
+-   Interpret and clean interview transcripts for social science research using OtterAI, Rev, and Dedoose softwares
+
+**Research Associate, Colorado State University Center for Human-Carnivore Coexistence**
+
+August 2024 - May 2025
+
+Fort Collins, CO
+
+-   Collaborated with Chronic Wasting Disease stakeholders to better relationships and communication
+
+-   Created Excel spreadsheets to interpret data regarding Chronic Wasting Disease prevalence and spread
+
+-   Assisted in the preparation, capture, and collaring of white-tailed deer in Gering, Nebraska in February 2025

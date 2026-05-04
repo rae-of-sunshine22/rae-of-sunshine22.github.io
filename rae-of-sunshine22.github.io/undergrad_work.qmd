@@ -1,0 +1,48 @@
+---
+title: "Undergraduate Work"
+format: html
+---
+
+Below is a showcase of notable projects and reports from my undergraduate career at Colorado State University, where I am about to receive my B.S. in Ecosystem Science and Sustainability!
+
+# Fall 2025
+
+-   [How to save a history: Dot art, the Dreaming, and the Western Desert Art Movement](https://drive.google.com/file/d/1HCF37jMDr0afbSORpL2RzjQ_o5CRcMpN/view?usp=sharing)
+
+    -   Exploratory analysis of the Western Desert Art Movement and its influences on modern understandings and preservation of Aboriginal Australian history
+
+    -   Written in fulfillment of HONR 292B: Art and Revolt: Fighting Regimes, Religion, and Self
+
+-   [Mountains, valleys, and the rivers in between: A case study of South Asia's transboundary Indus Basin](https://drive.google.com/file/d/1DNPiAj7bVKhfXzK3vIPuRdCIkguWFIbG/view?usp=sharing)
+
+    -   Critical analysis of the history, policy, and modern context of the Indus River Basin, a vital watershed spanning transnational boundaries
+
+    -   Written in fulfillment of WR 512: Water Law for Non-Lawyers
+
+-   What I Knew Then
+
+    -   Completed Senior Honors Thesis, available via excerpts housed under "Creative Writing Portfolio"
+
+    -   Abstract: “What I Knew Then”is a creative nonfiction collection defined by a commitment to life’s small joys, particularly in the face of grief, change, and loss of perceived identity. Infused with elements of literary realism and heavy introspection, four featured pieces incorporate the narrator’s journey from the simplistic suburbs of Wichita, Kansas, to the vibrant college town of Fort Collins, Colorado, examining the curious potential of childlike naivety while pursuing everyday happiness. In doing so, however, the narrator begins to uncover the strange intersections of youthful joy and sophisticated truth, acknowledging the value of both ideals in a world filled with love, loss, and everything in between.
+
+# Spring 2025
+
+-   [Exploring dynamics of Chronic Wasting Disease spread through community modeling](https://drive.google.com/file/d/1q6Yg8mbjiV31wrNSBxj2Yi7yQUZa3AO3/view?usp=sharing)
+
+    -   Informational report detailing the creation of a functional, agent-based NetLogo model, available via email request
+
+    -   Written in fulfillment of ESS 554: Ecological and Social Agent-based Modeling
+
+# Fall 2024
+
+-   [Coyote prevalence relative to proximity to golf courses: A citizen science analysis](https://drive.google.com/file/d/1lnKHtaJJwaRnwC6DUiAVVMyxB-eBFDaj/view?usp=sharing)
+
+    -   Research proposal for the potential study of coyote prevalence in areas surrounding golf courses in Wichita, Kansas, using citizen science methods
+
+    -   Written in fulfillment of LIFE 320 Honors: Ecology
+
+-   [Sloth Bear Ecology: A Brief Case Study](https://drive.google.com/file/d/1Gh4MCQICqCUOa2TYuT--FvwxBE_7XjHX/view?usp=sharing)
+
+    -   Informational report on the ecology of the sloth bear (Melursus ursinus)
+
+    -   Written in fulfillment of LIFE 320 Honors: Ecology

@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+This site was developed in fulfillment of ESS 523A: Environmental Data Science Applications: Introduction. I am incredibly excited to use this platform to share some of my favorite projects, work, and experiences from the past two years, and I hope you enjoy exploring the site! 

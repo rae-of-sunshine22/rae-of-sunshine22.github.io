@@ -1,21 +1,29 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "rae-of-sunshine22.github.io"
+  title: "Rae L. Brotsky"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: undergrad_work.qmd
+        text: Undergraduate Work
+      - href: research.qmd
+        text: Research Experience
+      - href: creative_writing.qmd
+        text: Creative Writing Portfolio
       - about.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: lux
+      dark: solar
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

@@ -1,11 +1,19 @@
 ---
-title: "rae-of-sunshine22.github.io"
+title: "Rae L. Brotsky"
+image: media/headshot.jpeg
+toc: false
+
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/raebrotsky
+    - text: GitHub
+      href: https://github.com/rae-of-sunshine22
+    - text: Email
+      href: mailto:raegan.brotsky@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1 - 1
-```
+Hi there, and welcome to my professional website! I'm Rae, a soon-to-be college graduate who loves creative writing, learning new things, and the natural world. Poke around my website to learn more! 
