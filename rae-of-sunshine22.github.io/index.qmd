@@ -9,7 +9,7 @@ about:
   image-width: 17em
   links: 
     - text: LinkedIn
-      href: https://www.linkedin.com/raebrotsky
+      href: https://www.linkedin.com/in/raebrotsky
     - text: GitHub
       href: https://github.com/rae-of-sunshine22
     - text: Email

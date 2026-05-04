@@ -20,10 +20,7 @@ format:
   html:
     theme: 
       light: lux
-      dark: solar
+      dark: darkly
     css: styles.css
     toc: true
     page-layout: full
-
-
-
